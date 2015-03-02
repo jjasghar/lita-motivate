@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-motivate"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["JJ Asghar"]
   spec.email         = ["jjasghar@gmail.com"]
   spec.description   = %q{Motivates a user with !m}
   spec.summary       = %q{Motivates a user with !m}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.homepage      = "http://github.com/jjasghar/lita-motivate"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
