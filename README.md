@@ -1,6 +1,7 @@
 # lita-motivate
 
-[![Build Status](https://travis-ci.org/jjasghar/lita-motivate.svg?branch=master)](https://travis-ci.org/jjasghar/lita-motivate)[![Coverage Status](https://coveralls.io/repos/jjasghar/lita-motivate/badge.svg)](https://coveralls.io/r/jjasghar/lita-motivate)
+[![Build Status](https://travis-ci.org/jjasghar/lita-motivate.svg?branch=master)](https://travis-ci.org/jjasghar/lita-motivate)
+[![Coverage Status](https://coveralls.io/repos/jjasghar/lita-motivate/badge.svg?branch=master)](https://coveralls.io/r/jjasghar/lita-motivate?branch=master)
 
 Some times it's nice to thank someone for all the work they do. This plugin allows you to do that via the bot you have!
 
