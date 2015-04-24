@@ -1,4 +1,3 @@
-require 'pry'
 module Lita
   module Handlers
     class Motivate < Handler
