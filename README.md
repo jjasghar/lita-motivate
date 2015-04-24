@@ -22,11 +22,9 @@ None
 ```
 14:37 <j^2> !m dosman711
 14:37 <j2bot> dosman711 keep up the good work!
+14:38 <j^2> !h5 dossman711
+14:38 ✧ j2bot high fives dossman711
 ```
-
-## TODO
-
-Add the ability to `!h5` or `^5` someone. Portions of the code are there, but not complete.
 
 ## License
 
