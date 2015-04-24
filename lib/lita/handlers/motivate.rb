@@ -29,5 +29,6 @@ module Lita
     end
 
     Lita.register_handler(Motivate)
+    Lita.register_handler(MotivateWithTemplates)
   end
 end
