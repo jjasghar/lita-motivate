@@ -22,12 +22,13 @@ module Lita
             })
 
       def high_five(request)
-        name = request.matches[0][0]
-        response.reply(render_template("high_five", name: name))
+        name = request.matches[0][1]
+        request.reply("/me high fives #{name}")
       end
 
     end
 
     Lita.register_handler(Motivate)
+    Lita.register_handler(MotivateWithTemplates)
   end
 end
