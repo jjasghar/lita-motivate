@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-motivate"
-  spec.version       = "0.1.1"
+  spec.version       = "0.2.0"
   spec.authors       = ["JJ Asghar"]
   spec.email         = ["jjasghar@gmail.com"]
   spec.description   = %q{Motivates a user with !m}
