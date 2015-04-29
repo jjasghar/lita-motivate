@@ -20,7 +20,6 @@ describe Lita::Handlers::Motivate, lita_handler: true do
     user1 = Lita::User.create(123, name: "user1")
     user2 = Lita::User.create(456, name: "user2")
     send_message("!m user2", as: user1)
-    expect(replies.last).to eq("#{user2.name} keep up the good work!")
+    expect(replies.last).to eq("You're doing good work, #{user2.name}!")
   end
-
 end
