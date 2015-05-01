@@ -10,7 +10,7 @@ module Lita
 
       def motivate(request)
         name = request.matches[0][2]
-        request.reply("#{name} keep up the good work!")
+        request.reply("You're doing good work, #{name}!")
       end
 
     end
